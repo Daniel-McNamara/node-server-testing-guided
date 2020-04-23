@@ -10,3 +10,10 @@ Guided project for **Node Server Testing** Module.
 - [ ] type `npm run server` to start the API.
 
 Please follow along as the instructor adds automated tests to the API.
+
+
+## Deploy to Heroku Using PostgresSQL
+
+- add the Heroku Postgress Add On (under settings) to the application on Heroku
+- add the 'pg' npm package
+-configure the 'production' property
